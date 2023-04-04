@@ -1,1 +1,0 @@
-# Authenticate-graphic-user-school
